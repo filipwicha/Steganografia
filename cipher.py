@@ -81,7 +81,7 @@ def decipher(pathoffolder, xoffset, yoffset, messagelen, bit, color):
 
 
 message = "I love cookies and I don't say it to anyone" #message to cipher
-print(message)
+print(message) 
 xof = 0 #offset of changes on x axis
 yof = 100 #offset of changes on y axis
 path = "C:\\Users\\50215\\Desktop" #specify path of folder, where the file in.bmp is
